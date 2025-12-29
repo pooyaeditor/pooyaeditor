@@ -77,7 +77,7 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pooyaeditor/pooyaeditor/main/Snapins.ai_394373322_641003114872850_5406555333833182069_n_1080.jpg"
+  <img src="https://raw.githubusercontent.com/pooyaeditor/pooyaeditor/main/photo.jpg"
        width="180"
        style="border-radius:50%;" />
 </p>
