@@ -4,7 +4,13 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pooyaeditor&label=Profile%20views&color=0e75b6&style=flat-square" alt="pooyaeditor" />
+  <a href="https://github.com/pooyaeditor">
+    <img src="https://github.com/pooyaeditor.png" width="180" alt="Pouya Delnavaz Profile Picture" style="border-radius: 50%;" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pooyaeditor&label=Profile%20views&color=0e75b6&style=flat-square" alt="pooyaeditor views" />
 </p>
 
 <p align="center">
@@ -34,22 +40,27 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pooyaeditor&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pooyaeditor top langs" height="165px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/stats?username=pooyaeditor&show_icons=true&theme=tokyonight&show_stats=stars,commits,prs,issues,contribs" alt="pooyaeditor stats" height="165px" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
 </p>
 
 ---
@@ -57,12 +68,12 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://www.pouyacodes.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Website-pouyacodes.ir-blue?style=flat-square&logo=google-chrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-pouyacodes.ir-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:pouya.delnavaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pouya.delnavaz@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pouya.delnavaz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/pooya_reporter/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@pooya_reporter-E4405F?style=flat-square&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@pooya_reporter-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
