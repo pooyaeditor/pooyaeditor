@@ -78,6 +78,6 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
 
 <p>
   <img align="center"
-       src="https://pouyacodes.ir/media/uploads/Snapins.ai_394373322_641003114872850_5406555333833182069_n_1080.jpg"
+       src="https://github.com/pooyaeditor/pooyaeditor/blob/main/Snapins.ai_394373322_641003114872850_5406555333833182069_n_1080.jpg"
        alt="pooyaeditor" />
 </p>
