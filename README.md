@@ -76,8 +76,6 @@ Backend Engineer | Python, Django, APIs, Automation & Low-Cost Systems
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pooyaeditor/pooyaeditor/main/photo.jpg"
-       width="180"
-       style="border-radius:50%;" />
-</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooyaeditor&show_icons=true&locale=en&layout=compact" alt="pooyaeditor" /></p>
+
