@@ -1,80 +1,101 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=POUYA+DELNAVAZ;پـویـا+دلنـواز;Software+Architect+%26+Dreamer" alt="Pouya Delnavaz Name" />
-</p>
+<div align="center">
 
-<h2 align="center">🚀 خالق تجربه‌های دیجیتال | Digital Experience Creator 🚀</h2>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=POUYA+DELNAVAZ;پـویـا+دلنـواز;Backend+Architect;Network+Security+Expert;Founder+of+Okar+Platform" alt="Pouya Delnavaz - Python Django Developer & Network Specialist" />
+</h1>
 
-<p align="center">
-  <a href="https://github.com/pooyaeditor">
-    <img src="https://github.com/pooyaeditor.png" width="200" alt="Pouya Delnavaz" style="border-radius: 50%; border: 4px solid #0e75b6; box-shadow: 0 0 20px rgba(14,117,182,0.5);" />
-  </a>
-</p>
+<h3>
+  ✨ "پویایی در حرکت، دلنوازی در جزئیات" ✨<br>
+  Engineering Dynamic Solutions with a Heart-Pleasing Precision
+</h3>
 
-<p align="center">
-  <b>POUYA</b> (Dynamic/Active) • <b>DELNAVAZ</b> (Soothing/Heart-pleasing)<br>
-  <i>"بک‌اند را با دقت مهندسی و با هنر طراحی می‌کنم"</i>
-</p>
+<a href="https://github.com/pooyaeditor">
+  <img src="https://github.com/pooyaeditor.png" width="220" alt="Pouya Delnavaz - پویا دلنواز" style="border-radius: 50%; border: 6px solid #0e75b6; box-shadow: 0 0 30px rgba(14,117,182,0.6);" />
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pooyaeditor&label=Total%20Visions&color=0e75b6&style=flat-square" alt="pooyaeditor views" />
+  <strong>Software Engineering Student | Backend Architect | IT Infrastructure Specialist</strong><br>
+  📍 Based in Tabriz, Iran
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pooyaeditor&label=Digital%20Footprints&color=0e75b6&style=flat-square" alt="Pouya Delnavaz Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Innovating-0E75B6?style=flat-square" alt="Status" />
+</p>
+
+</div>
 
 ---
 
-### 🌌 جهان پویای من | My Dynamic Universe
+### 🌌 قلمروی تکنولوژی پویـا | The Dynamic Tech Realm
 
-| 🇮🇷 پویایِ دلنواز | 🇬🇧 Pouya Delnavaz |
+<p align="right" dir="rtl">
+من <b>پویا دلنواز</b> هستم؛ معمار سیستم‌های بک‌اِند که معتقدم کدها باید مثل یک ملودیِ دلنواز دقیق، و مثل نامم، همیشه پویا باشند. تخصص من در ترکیب قدرت <b>Python & Django</b> با امنیت و پایداریِ <b>شبکه‌های کامپیوتری</b> است.
+</p>
+
+| 🇮🇷 استراتژی من (Persian) | 🇬🇧 My Mission (English) |
 | :--- | :--- |
-| **خالق پلتفرم [اُکار](https://okar.ir)؛** جایی که کدهای من فاصله‌ها را از بین می‌برند و خدمات را هوشمند می‌کنند. | **Founder of [Okar Platform](https://okar.ir);** where my code bridges distances and makes services smarter. |
-| **معمار سیستم‌های مقیاس‌پذیر؛** عاشق چالش‌های پایتون، جنگو و بهینه‌سازی سیستم‌های اقتصادی. | **Scalable Systems Architect;** obsessed with Python, Django, and optimizing low-cost systems. |
-| **جستجوگر مسیرهای نو؛** در حال یادگیری عمیق معماری نرم‌افزار و دنیای بی‌پایان داکر. | **Explorer of New Paths;** diving deep into Software Architecture and the Docker universe. |
-| **یک فکت رویایی:** من معتقدم کد زدن یعنی بخشیدن روحِ حرکت (پویا) به کالبد سرد سخت‌افزار. | **A Dreamy Fact:** I believe coding is about breathing life (Pouya) into the cold body of hardware. |
+| **توسعه‌دهنده ارشد جنگو؛** خلق وب‌اپلیکیشن‌های مقیاس‌پذیر و اتوماسیون‌های هوشمند برای دنیای واقعی. | **Lead Django Architect;** Building scalable web ecosystems and smart automations for the real world. |
+| **بنیان‌گذار [پلتفرم اُکار](https://okar.ir)؛** پیشرو در ارائه خدمات حضوری به صورت هوشمند و غیرحضوری. | **Founder of [Okar Platform](https://okar.ir);** Pioneering the transition of physical services to the smart digital era. |
+| **متخصص زیرساخت و امنیت؛** از راه‌اندازی سرورهای لینوکسی تا مدیریت امنیت شبکه‌های بزرگ. | **Infrastructure & Security;** From hardening Linux servers to managing complex network infrastructures. |
+| **خالق ابزارهای AI؛** تبدیل ایده‌های نو (مثل ساخت عکس پرسنلی با هوش مصنوعی) به واقعیت. | **AI Innovation;** Turning cutting-edge ideas (like AI-driven ID photo generation) into functional tools. |
 
 ---
 
-### 🛠 سلاح‌های مهندسی من | My Engineering Arsenal
+### 🛠 سلاح‌های مهندسی من | The Master's Toolbox
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>Core Tech</strong></td>
+    <td align="center" width="120"><strong>Frameworks</strong></td>
+    <td align="center" width="120"><strong>Database</strong></td>
+    <td align="center" width="120"><strong>DevOps/Net</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,linux,bash" /><br>Python, Linux
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django,flask,html,css" /><br>Django, Web
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,cloudflare,nginx" /><br>Cloud & Net
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🪐 با من در ارتباط باشید | Connect with the Creator
+### 📝 آخرین نوشته‌های من در [PouyaCodes.ir](https://www.pouyacodes.ir)
 
-<p align="left">
+* **تحلیل جامع سیستم‌های بیمارستانی (HIS)** - بررسی زیرساخت‌های حیاتی سلامت.
+* **اتوماسیون با n8n** - چگونه کارهای تکراری را به ربات‌ها بسپاریم.
+* **هوش مصنوعی در خدمت تصویر** - ساخت عکس‌های پرسنلی استاندارد با AI.
+
+---
+
+### 🪐 اتصال به جهانِ من | Connect with Pouya
+
+<div align="left">
   <a href="https://www.pouyacodes.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Journal-Pouya%20Codes-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-Pouya%20Codes-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Pouya Codes Website" />
   </a>
   <a href="mailto:pouya.delnavaz@gmail.com">
-    <img src="https://img.shields.io/badge/Direct-Pouya-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact-Pouya-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pouya Delnavaz" />
   </a>
   <a href="https://www.instagram.com/pooya_reporter/" target="_blank">
-    <img src="https://img.shields.io/badge/Vibe-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Visuals-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pooyaeditor&theme=ocean&no-frame=true&margin-w=15" alt="Pouya Delnavaz GitHub Trophies" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=pooyaeditor&theme=ocean&no-frame=true&margin-w=15" alt="pooyaeditor trophies" />
-  <br>
-  <i>"Turning complex logic into soothing digital experiences."</i><br>
-  <b>POUYA DELNAVAZ</b>
-</p>
+  <p><i>"Logic is the foundation, but Creativity is the roof."</i><br>
+  <strong>POUYA DELNAVAZ</strong></p>
+</div>
